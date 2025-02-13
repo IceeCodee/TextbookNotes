@@ -43,4 +43,8 @@ _defensive rating_ --> point allowed per 100 posesisons
 Thinking in terms of possessions and efficiency is the biggest thing that comes out of scoring a game with the score sheet above (Throughout the rest of this book, when a team offense is referred to as good, it is because they are efficient, not because they score a lot of points).
 _Points per possession_ can expand thids concept to be applicable to individual players.
 
+## Chapter 3
+_The Best Offenses and Defenses (And some of the worst too)_
+
+w
 
