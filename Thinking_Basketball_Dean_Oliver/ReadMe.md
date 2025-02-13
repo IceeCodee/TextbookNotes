@@ -7,7 +7,7 @@ Sports in general just provide a more concrete and often more emotional context 
 ## Chapter 2
 _Watching a Game: Offensive Score Sheets_
 
-[examplecharting.png]
+(examplecharting.png)
 
 Number at the start of the line is the number of point at the end of the possession. The team abbreviationg comes next. This is followed by a sequence of passes, dribbles (denoted superscript D) , rebounds (denoted superscript R), shots (subcscripts indicated where the ball was shot from note the figure above. misses are denoted - makes are denoted +).
 * / passes cross court, if in superscript it means dribbles across halfcourt
