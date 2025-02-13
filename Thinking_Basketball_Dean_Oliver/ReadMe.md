@@ -34,9 +34,9 @@ Number at the start of the line is the number of point at the end of the possess
 ![Here is an example of game scoring in the book](examplecharting.png)
 
 The most absic thing to come out of a scoresheet is the concept of a possession. At the end of a gam each team has just about the same possessions (cumulative sum). High energy, run and gun teams have a high possession count at an upward of 100 while walk it up the court, slower teams have around 80.  A good way to approximate possessions:
-$$ Poss = FGA - OREB + TOV + 0.4 * FTA $$
+$Poss = FGA - OREB + TOV + 0.4 * FTA$
 A more technical of this formula replaced the OREB with something more complex:
-$$ FGA - OREB/OREB + DDREB  * (FGA-FGM) * 1.07+ TOV + 0.4 * FTA $$
+$FGA - OREB/OREB + DDREB  * (FGA-FGM) * 1.07+ TOV + 0.4 * FTA$
 It’s easy to calculate how efficient the two teams were with their possessions. e. An efficient offensive team scores more points with its given possessions, not more points overall.
 _offensive rating_ --> points scored per 100 possessions
 _defensive rating_ --> point allowed per 100 posesisons 
