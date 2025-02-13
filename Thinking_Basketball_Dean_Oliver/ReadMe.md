@@ -31,6 +31,8 @@ Number at the start of the line is the number of point at the end of the possess
 * BK denoted block
 * S CK TO denoted shot clock violation (turnover)
 
+  ![Here is an example of game scoring in the book](examplecharting.png)
+
 
 
 
