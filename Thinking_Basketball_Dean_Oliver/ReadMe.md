@@ -46,5 +46,7 @@ _Points per possession_ can expand thids concept to be applicable to individual 
 ## Chapter 3
 _The Best Offenses and Defenses (And some of the worst too)_
 
-w
+No one cares about what make an average team. Anyone can be average (2.0 GPA .500 record, etc.)
+Average is boring but you need to know what average is in order to define greatness and to define what is really bad. <br/>
+The ponint in looking at great teams is to find consistencies amoung those temas, patterns that may suggest how to construct other team or how to predict what teams might be great. 
 
