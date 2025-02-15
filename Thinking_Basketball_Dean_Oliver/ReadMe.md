@@ -48,5 +48,21 @@ _The Best Offenses and Defenses (And some of the worst too)_
 
 No one cares about what make an average team. Anyone can be average (2.0 GPA .500 record, etc.)
 Average is boring but you need to know what average is in order to define greatness and to define what is really bad. <br/>
-The ponint in looking at great teams is to find consistencies amoung those temas, patterns that may suggest how to construct other team or how to predict what teams might be great. 
+The point in looking at great teams is to find consistencies amoung those temas, patterns that may suggest how to construct other team or how to predict what teams might be great. 
+<br/>
+<ins> Were the star driven or system driven</ins><br/>
+do team revolve arpund some unique offensive system or did the presence of a certain star player(s) casue them th reach greatness? --> More the talent than the system. The systems catered to the talents. <br/>
+<ins>Floor percentage</ins> is the percentage of a team’s possessions in which the team
+scores at least one point. Basically, floor percentage answers the question, “What
+percentage of a team’s times down the floor does it score?” A possession in which
+a team scores at least one point is known as a <ins>scoring possession</ins> <br/>
+$floor percentage = scoring possessions / total possessions$ 
+<ins>Field percentage</ins> is the percentage of a team’s non-foul shot possessions in
+which the team scores a field goal. This value gets at the question: “If we assume
+no foul will be called what chance does this team have to score from the field including
+the possibility of offensive rebounds and turnovers?”
+<ins>Play percentage</ins> is the percentage of a team’s “plays” on which the team
+scores at least one point. (Teams with high floor percentages and high offensive ratings score very well from two-point land. Teams with low floor percentages and high ratings get
+their points from three-pointers.Teams with high field percentages are very efficient from the field. They don’t turn the ball over, they get offensive rebounds, and they shoot pretty well. teams that have relatively low field percentages and high offensive ratings probably are either making a high percentage of their three-pointers and/or getting to the line a lot)<br/>
+Trends suggest that most offenses deemphasize centers and point guards might not be as vital either. However, there is a correlation between good passing teams and good offensive teams. Teams that have a higher percentage of their field goals accompanied by assists tend to be better offensively.
 
