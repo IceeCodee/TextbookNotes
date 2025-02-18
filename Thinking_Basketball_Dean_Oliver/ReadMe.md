@@ -71,5 +71,11 @@ _coaches with great offenses_
 When a team appears on this list of great offenses several times with the
 same coach, it may not actually be a reflection of great coaching, but a bit of luck. However, when a coach builds great offenses on multiple teams, that is at least an indication that
 the coach knows how to let great talent be a great system. More likely, the coach
-has some skill that he is passing on to his players to contribute to their greatness
+has some skill that he is passing on to his players to contribute to their greatness.
+_correlation between height and great offenses_
+The great offensive teams were generally taller than average. The shortest team
+was the 1982 Nuggets, which was also the fastest. Running probably did help this team create advantages that they didn’t get in a half-court offense where height might be more important.
+<br>
+_standard deviation_ --> a measure of how much teams usually deviated from the average
+
 
