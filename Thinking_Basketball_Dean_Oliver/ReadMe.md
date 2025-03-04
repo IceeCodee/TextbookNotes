@@ -50,7 +50,7 @@ No one cares about what make an average team. Anyone can be average (2.0 GPA .50
 Average is boring but you need to know what average is in order to define greatness and to define what is really bad. <br/>
 The point in looking at great teams is to find consistencies amoung those temas, patterns that may suggest how to construct other team or how to predict what teams might be great. 
 <br/>
-_Were the star driven or system driven_
+*Were the star driven or system driven*
 <br>
 do team revolve arpund some unique offensive system or did the presence of a certain star player(s) casue them th reach greatness? --> More the talent than the system. The systems catered to the talents. <br/>
 <ins>Floor percentage</ins> is the percentage of a team’s possessions in which the team
