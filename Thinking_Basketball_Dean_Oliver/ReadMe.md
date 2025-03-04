@@ -50,7 +50,8 @@ No one cares about what make an average team. Anyone can be average (2.0 GPA .50
 Average is boring but you need to know what average is in order to define greatness and to define what is really bad. <br/>
 The point in looking at great teams is to find consistencies amoung those temas, patterns that may suggest how to construct other team or how to predict what teams might be great. 
 <br/>
-*Were the star driven or system driven*
+
+**Were the star driven or system driven**
 <br>
 do team revolve arpund some unique offensive system or did the presence of a certain star player(s) casue them th reach greatness? --> More the talent than the system. The systems catered to the talents. <br/>
 <ins>Floor percentage</ins> is the percentage of a team’s possessions in which the team
@@ -62,11 +63,11 @@ $floor   percentage  = { scoring   possessions / total   possessions}$ <br>
 <ins>Play percentage</ins> is the percentage of a team’s “plays” on which the team scores at least one point. <br> (Teams with high floor percentages and high offensive ratings score very well from two-point land. Teams with low floor percentages and high ratings get their points from three-pointers.Teams with high field percentages are very efficient from the field. They don’t turn the ball over, they get offensive rebounds, and they shoot pretty well. teams that have relatively low field percentages and high offensive ratings probably are either making a high percentage of their three-pointers and/or getting to the line a lot)<br/>
 Trends suggest that most offenses deemphasize centers and point guards might not be as vital either. However, there is a correlation between good passing teams and good offensive teams. Teams that have a higher percentage of their field goals accompanied by assists tend to be better offensively.
 <br>
-_coaches with great offenses_
+**coaches with great offenses**
 When a team appears on this list of great offenses several times with the
 same coach, it may not actually be a reflection of great coaching, but a bit of luck. However, when a coach builds great offenses on multiple teams, that is at least an indication that the coach knows how to let great talent be a great system. More likely, the coach
 has some skill that he is passing on to his players to contribute to their greatness.
-_correlation between height and great offenses_
+**correlation between height and great offenses**
 The great offensive teams were generally taller than average. The shortest team
 was the 1982 Nuggets, which was also the fastest. Running probably did help this team create advantages that they didn’t get in a half-court offense where height might be more important.
 <br>
