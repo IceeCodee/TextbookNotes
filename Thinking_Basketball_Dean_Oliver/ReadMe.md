@@ -51,9 +51,9 @@ Average is boring but you need to know what average is in order to define greatn
 The point in looking at great teams is to find consistencies amoung those temas, patterns that may suggest how to construct other team or how to predict what teams might be great. 
 <br/>
 
-**Were the star driven or system driven**
+**Were the teams star driven or system driven**
 <br>
-do team revolve arpund some unique offensive system or did the presence of a certain star player(s) casue them th reach greatness? --> More the talent than the system. The systems catered to the talents. <br/>
+do teams revolve around some unique offensive system or did the presence of a certain star player(s) casue them th reach greatness? --> More the talent than the system. The systems catered to the talents. <br/>
 <ins>Floor percentage</ins> is the percentage of a team’s possessions in which the team
 scores at least one point. Basically, floor percentage answers the question, “What
 percentage of a team’s times down the floor does it score?” A possession in which
@@ -71,6 +71,28 @@ has some skill that he is passing on to his players to contribute to their great
 The great offensive teams were generally taller than average. The shortest team
 was the 1982 Nuggets, which was also the fastest. Running probably did help this team create advantages that they didn’t get in a half-court offense where height might be more important.
 <br>
+**What doesn't show up in this list?**
 _standard deviation_ --> a measure of how much teams usually deviated from the average
+<br>
+(Low standard devviation means values tend to be closer to the mean while higher standard deviation indicates that values are spread out over a wider range.) The standard deviatoin is commonly used in the determination of what constitutes as an outlier and what does not. Higher standard deviatoin in the context of evaluating top 25 offenses in the NBA could point to dilution of talent or strategy evolution. 
+
+ **The Great Defenses**
+The top two defenses were the Pat Riley Knicks of 1993 and 1994, and they
+were far and away the best. The distance between the second-ranked defense and
+the third-ranked defense is as large as the difference between the first-ranked
+offense and the eighteenth-ranked offense. These Riley teams that set the tone for the
+1990s, causing the rule changes that brought a zone defense to the NBA in 2002 (introducing the defensive 3 second rule.
+<br>
+If you use the All-NBA team as an indicator of stardom,  there appeared to be more stars leading the offensive teams than the defensive teams, hinting that system may be more important to defense than to offense. With regard to pace, as with the greatest offensive teams, there are no clear patterns relating pace to defensive efficiency. The key message is that there are not many
+cases where setting a fast or slow pace has dictated how efficient a team is. A fair number of teams with slower paces are led by new coaches and coincidentally prepares them for a life in broadcasting?? lol (think doug collins, mike fratello, hubie brown) <br>
+
+**Are there key positions that have to be filled?**
+Having a shot blocker seems like a very important position to fill but many of the best defensive teams had fewer blocked shots than average. This goes back to the fact that a lot of these teams featured good straight-up man defenses. They could force bad shots without blocking shots—and all teams were better than average in defensive field goal percentage. Great defensive temas were shorter on average. 
+
+**The Worst Teams**
+
+ 
+
+
 
 
